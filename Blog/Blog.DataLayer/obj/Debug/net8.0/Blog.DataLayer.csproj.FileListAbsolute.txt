@@ -1,0 +1,14 @@
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\bin\Debug\net8.0\Blog.DataLayer.deps.json
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\bin\Debug\net8.0\Blog.DataLayer.runtimeconfig.json
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\bin\Debug\net8.0\Blog.DataLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\bin\Debug\net8.0\Blog.DataLayer.pdb
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.csproj.AssemblyReference.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.AssemblyInfo.cs
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\refint\Blog.DataLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.pdb
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\Blog.DataLayer.genruntimeconfig.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.DataLayer\obj\Debug\net8.0\ref\Blog.DataLayer.dll

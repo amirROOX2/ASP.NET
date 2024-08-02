@@ -1,0 +1,15 @@
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\bin\Debug\net8.0\Blog.CoreLayer.deps.json
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\bin\Debug\net8.0\Blog.CoreLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\bin\Debug\net8.0\Blog.CoreLayer.pdb
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.AssemblyInfo.cs
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\refint\Blog.CoreLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.pdb
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\ref\Blog.CoreLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.CoreLayer.csproj.AssemblyReference.cache
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\bin\Debug\net8.0\Blog.DataLayer.dll
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\bin\Debug\net8.0\Blog.DataLayer.pdb
+C:\Users\Saraye Tell\source\repos\Blog\Blog.CoreLayer\obj\Debug\net8.0\Blog.Cor.1DE5AAE6.Up2Date
